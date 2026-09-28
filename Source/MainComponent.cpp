@@ -1,4 +1,4 @@
-##include "MainComponent.h"
+#include "MainComponent.h"
 
 //==============================================================================
 MainComponent::MainComponent()
@@ -43,9 +43,8 @@ void MainComponent::resized()
 
     titleLabel.setBounds (area.removeFromTop (70));
     subtitleLabel.setBounds (area.removeFromTop (50));
-    companyLabel.setBounds (area.removeFromTop (40));
-}include "MainComponent.h"
-
+    companyLabel.setBounds (
+}
 //==============================================================================
 MainComponent::MainComponent()
 {
@@ -65,3 +64,4 @@ MainComponent::MainComponent()
 
     addAndMakeVisible (companyLabel);
     companyLabel.setText ("Plug
+}
