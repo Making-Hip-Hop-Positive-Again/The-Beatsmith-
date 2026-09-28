@@ -1,2 +1,3 @@
-# The-Beatsmith-
-THE BEATSMITH Loop DAW by Plugged Professor Productions LLC
+THE BEATSMITHTHE 
+Loop DAW
+by Plugged Professor Productions LLC
